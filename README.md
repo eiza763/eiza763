@@ -5,7 +5,13 @@
 🔭 Currently building around AI agents and observability
 🚀 I learn by shipping real projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiza-imtiaz/)
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiza-eizo/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eizaeizo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eiza763)
+
+![Profile views](https://komarev.com/ghpvc/?username=eiza763&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
 
@@ -63,9 +69,16 @@ E-commerce storefront with cart and checkout flows.
 
 <div align="center">
 
-![Eiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiza763&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eiza763&theme=github_dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eiza763&theme=dark&hide_border=false&layout=compact&langs_count=8)
+![GitHub streak](https://streak-stats.demolab.com/?user=eiza763&theme=dark&hide_border=false)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eiza763&theme=github_dark)
+
+## 🧑‍💻 Most Used Languages
+
+![Languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eiza763&theme=github_dark)
+![Languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eiza763&theme=github_dark)
 
 </div>
 
@@ -73,6 +86,6 @@ E-commerce storefront with cart and checkout flows.
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/eiza-imtiaz/)
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/eiza-eizo/) · [X](https://x.com/eizaeizo)
 
 </div>
