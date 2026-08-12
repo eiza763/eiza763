@@ -36,6 +36,32 @@ E-commerce storefront with cart and checkout flows.
 
 ---
 
+## 🌍 Open Source Contributions
+
+### [cognee](https://github.com/topoteretes/cognee) — open-source AI memory platform for agents ⭐ 30k
+
+| Contribution | Scope | Status |
+| :--- | :--- | :--- |
+| [Feature/dataset versioning](https://github.com/topoteretes/cognee/pull/3770) | +2,201 lines · 21 files | 🟡 In review |
+| [Graph Insight Report — `GRAPH_REPORT` search type + API + CLI](https://github.com/topoteretes/cognee/pull/3758) | +624 lines · 10 files | 🟡 In review |
+| [Dataset-name sanitization parity across all integrations](https://github.com/topoteretes/cognee-integrations/pull/226) | +614 / −14 lines · 11 files | 🟡 In review |
+
+### [VoiceyBill](https://github.com/voiceyBill) — voice-driven expense tracking with AI receipt scanning
+
+| Contribution | Repo | Status |
+| :--- | :--- | :--- |
+| [Custom category CRUD API](https://github.com/voiceyBill/voiceyBill-server/pull/109) | server | ✅ Merged |
+| [Custom category management in Settings](https://github.com/voiceyBill/voiceyBill-web/pull/134) | web | ✅ Merged |
+| [Change-password endpoint](https://github.com/voiceyBill/voiceyBill-server/pull/86) | server | ✅ Merged |
+| [Change-password option in Settings](https://github.com/voiceyBill/voiceyBill-web/pull/90) | web | ✅ Merged |
+
+I also opened the feature requests behind several of these — including
+[custom transaction categories](https://github.com/voiceyBill/voiceyBill-web/issues/124)
+and [date-range filtering on the transactions page](https://github.com/voiceyBill/voiceyBill-web/issues/141) —
+then shipped them end to end across API and UI.
+
+---
+
 ## 💻 Tech Stack
 
 **Languages**
